@@ -1,0 +1,16 @@
+.news h1
+{
+  color: blue;
+  background-color: rgb(221,255,255)
+}
+.news p
+{
+   font-family: 'b zar';
+   color: black;
+   border-left: solid;
+   font-size: 20px;
+   margin-right: 5px;
+   border-top: dashed;
+   border-bottom: ridge;
+   border-style: solid dashed;
+}
